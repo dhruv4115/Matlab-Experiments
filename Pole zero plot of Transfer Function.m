@@ -21,6 +21,6 @@ plot(real(poles),imag(poles), 'r*','MarkerSize',8,'DisplayName','Poles');
 %plot zeros
 plot(real(poles),imag(poles), 'bo','MarkerSize',8,'DisplayName','zeros');
 
-title('Pole-Zero Plot ___20224058');
+title('Pole-Zero Plot ___20224057');
 legend('Poles','Zeros');
 grid on;
