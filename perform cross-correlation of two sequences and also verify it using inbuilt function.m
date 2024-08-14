@@ -37,12 +37,12 @@ figure;
 
 subplot(2,1,1);
 stem(manual_cross_corr);
-title('Manual Cross-Correlation ____20224058');
+title('Manual Cross-Correlation ____20224057');
 xlabel('Lag');
 ylabel('Cross-Correlation');
 
 subplot(2,1,2);
 stem(builtin_cross_corr);
-title('Built-in Cross-Correlation ____20224058');
+title('Built-in Cross-Correlation ____20224057');
 xlabel('Lag');
 ylabel('Cross-Correlation');
