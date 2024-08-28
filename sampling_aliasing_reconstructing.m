@@ -37,4 +37,4 @@ subplot(3,1,3);
 plot(t, x1);
 xlabel('Time (s)');
 ylabel('Amplitude');
-title('Reconstructed Signal__20224058');
+title('Reconstructed Signal__20224057');
